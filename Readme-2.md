@@ -146,6 +146,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AashooSharma/AashooSharma/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AashooSharma/my-profile-readme/output/snake.svg" alt="Snake animation" />
 
 ###
